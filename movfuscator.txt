@@ -1,3 +1,7 @@
+#The challenge is based on movfuscation.
+#first I used an demovfuscator and then followed the the strncmp at two places and obtained the parts of the flag.
+#The flag is the hash of the first 14 characters of the string.
+
 0x804d036 ====>   m0vfu3c4t0r!
 0x804d050 ====>y
 0x804d050 ====>1
