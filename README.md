@@ -1,3 +1,3 @@
 # reverse
 
-This repository contains python scripts written to solve challenges from CTFs.
+This repository contains python scripts written to solve some challenges from CTFs.
