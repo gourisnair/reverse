@@ -1,0 +1,23 @@
+0x804d036 ====>   m0vfu3c4t0r!
+0x804d050 ====>y
+0x804d050 ====>1
+0x804d050 ====>n
+0x804d050 --->g
+0x804d050 --->:
+0x804d050 --->(
+0x804d05c===>f
+0x8048e2c==>strncmp1
+0x8049564==>strncmp2
+
+
+then it checks 
+		0x85f6133==m0vfu3c4t0r
+		0x85f6154==g:(
+	        0x85f6150==0y1ng:(
+		0x81f6090==A
+		@0x8049c0f==h
+		@0x8049f44==_
+
+Ah_m0vfu3c4t0r!pqrstuvwxy
+
+FLAG : ASIS{574a1ebc69c34903a4631820f292d11fcd41b906}
