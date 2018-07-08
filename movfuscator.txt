@@ -1,3 +1,4 @@
+#Challenge from ASIS-QUALS(2018)-babyc
 #The challenge is based on movfuscation.
 #first I used an demovfuscator and then followed the the strncmp at two places and obtained the parts of the flag.
 #The flag is the hash of the first 14 characters of the string.
