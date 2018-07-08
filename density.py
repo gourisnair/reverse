@@ -1,4 +1,4 @@
-#The challenge is from ASIS-QUALS(2018)
+#The challenge is from ASIS-QUALS(2018)- DENSITY
 #The given nam of the binary was b64pack. So I use the command "base64 <filename>" and I got the string "b64dec" given below.
 #Then after reversing I wrote the following script to print the flag.
 
